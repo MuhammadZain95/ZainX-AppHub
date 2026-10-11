@@ -1,0 +1,8 @@
+{
+  "name": "ZainX AppHub",
+  "description": "Where apps become tangible. Discover, upload, and download apps and software across mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
